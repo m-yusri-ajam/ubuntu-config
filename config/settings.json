@@ -1,5 +1,7 @@
 {
     "workbench.colorTheme": "GitHub Dark Default",
     "files.autoSave": "onWindowChange",
-    "editor.fontFamily": "'Ubuntu Mono', monospace"
+    "editor.fontFamily": "'Ubuntu Mono', monospace",
+    "git.ignoreRebaseWarning": true,
+    "files.hotExit": "onExitAndWindowClose"
 }

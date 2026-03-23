@@ -1,6 +1,6 @@
 # Ubuntu Development Environment 🐧
 
-This repository contains the configuration files and automation scripts used to maintain a high-performance **Linux (Ubuntu 22.04 LTS)** workflow. It demonstrates a commitment to systems-level optimization and reproducible environments.
+This repository contains the configuration files and automation scripts used to maintain a high-performance **Linux (Ubuntu 24.04.4 LTS)** workflow. It demonstrates a commitment to systems-level optimization and reproducible environments.
 
 ### 🛠 Environment Highlights
 - **Custom Bash/Zsh Aliases:** Short-hand commands for frequent ETL tasks, Git workflows, and Python virtual environment management.
